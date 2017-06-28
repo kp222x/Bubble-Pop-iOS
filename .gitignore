@@ -1,3 +1,6 @@
 Bubble Pop.xcodeproj/
 Bubble PopUITests/
 Bubble PopTests/
+
+.*
+!/.gitignore
